@@ -1,1 +1,14 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64"><rect width="64" height="64" rx="14" fill="#111713"/><path d="M17 16h17c9 0 15 5 15 13 0 7-5 12-13 13H27v9H17V16zm10 9v9h7c3 0 5-2 5-5s-2-4-5-4h-7z" fill="#b7f62f"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="CareerBoard">
+  <defs>
+    <linearGradient id="indigo" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#1d285c"/>
+      <stop offset="100%" stop-color="#353e8e"/>
+    </linearGradient>
+    <linearGradient id="iris" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#c8d0ff"/>
+      <stop offset="100%" stop-color="#a39aff"/>
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="14" fill="url(#indigo)"/>
+  <path d="M17 16h17c9 0 15 5 15 13 0 7-5 12-13 13H27v9H17V16zm10 9v9h7c3 0 5-2 5-5s-2-4-5-4h-7z" fill="url(#iris)"/>
+</svg>
